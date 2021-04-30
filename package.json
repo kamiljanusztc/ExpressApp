@@ -1,0 +1,11 @@
+{
+  "name": "Express-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamiljanusztc/Express.git",
+  "author": "Kamil Janusz <kamiljanusztc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express-handlebars": "3.1.0"
+  }
+}
